@@ -4,3 +4,6 @@
 
 ## Homework 2
 ![alt text](Homework2.png)
+
+## Homework 3
+![alt text](Homework3.png)
